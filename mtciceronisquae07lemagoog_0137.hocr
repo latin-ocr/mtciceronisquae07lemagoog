@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae07lemagoog_0137.png"; bbox 0 0 2982 4682; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 559 1669 2355 2074">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 559 1669 2355 2074">
+     <span class='ocr_line' id='line_1_1' title="bbox 726 1669 2207 1800; baseline 0.003 -9"><span class='ocrx_word' id='word_1_1' title='bbox 726 1671 904 1792; x_wconf 91' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 973 1671 1118 1794; x_wconf 90' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1179 1669 2207 1800; x_wconf 76' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 559 1849 2355 2074; baseline -0.001 -7"><span class='ocrx_word' id='word_1_4' title='bbox 559 1849 2355 2074; x_wconf 83' lang='lat' dir='ltr'>RHETORICORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 919 2195 1997 2473">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 919 2195 1997 2473">
+     <span class='ocr_line' id='line_1_3' title="bbox 919 2195 1997 2278; baseline 0 -4"><span class='ocrx_word' id='word_1_5' title='bbox 919 2198 1072 2274; x_wconf 91' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_6' title='bbox 1127 2197 1216 2276; x_wconf 91' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1261 2195 1997 2278; x_wconf 90' lang='lat' dir='ltr'>HERENNIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1049 2402 1864 2473; baseline -0.004 -2"><span class='ocrx_word' id='word_1_8' title='bbox 1049 2402 1864 2473; x_wconf 89' lang='lat' dir='ltr'>IIIIIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

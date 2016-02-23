@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae07lemagoog_0189.png"; bbox 0 0 2982 4682; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 273 1624 2355 2078">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 273 1624 2355 2078">
+     <span class='ocr_line' id='line_1_1' title="bbox 273 1624 2137 1806; baseline 0.002 -7"><span class='ocrx_word' id='word_1_1' title='bbox 273 1624 280 1630; x_wconf 74' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 507 1717 587 1764; x_wconf 75' lang='lat'><strong>·-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 663 1679 837 1799; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 905 1677 1050 1798; x_wconf 89' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1112 1673 2137 1806; x_wconf 79' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 497 1855 2355 2078; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 497 1855 2355 2078; x_wconf 79' lang='lat' dir='ltr'>RHEToRlcORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 849 2198 1929 2491">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 849 2198 1929 2491">
+     <span class='ocr_line' id='line_1_3' title="bbox 849 2198 1929 2280; baseline 0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 849 2199 1002 2278; x_wconf 88' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1059 2198 1148 2277; x_wconf 89' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1191 2198 1929 2280; x_wconf 88' lang='lat' dir='ltr'>HERENNIUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 956 2399 1816 2491; baseline 0.002 -21"><span class='ocrx_word' id='word_1_10' title='bbox 956 2401 1255 2471; x_wconf 82' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1305 2399 1374 2491; x_wconf 90' lang='lat' dir='ltr'><strong>Q</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1379 2402 1816 2475; x_wconf 80' lang='lat' dir='ltr'><strong>UUUUUUU</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

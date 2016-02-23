@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae07lemagoog_0585.png"; bbox 0 0 2982 4682; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 689 1664 2100 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 689 1664 2100 1789">
+     <span class='ocr_line' id='line_1_1' title="bbox 689 1664 2100 1789; baseline 0.001 -6"><span class='ocrx_word' id='word_1_1' title='bbox 689 1664 867 1785; x_wconf 88' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 912 1664 1055 1785; x_wconf 89' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1119 1664 2100 1789; x_wconf 87' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 2014 2297 2488">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 2014 2297 2488">
+     <span class='ocr_line' id='line_1_2' title="bbox 368 2014 2297 2223; baseline 0.002 -6"><span class='ocrx_word' id='word_1_4' title='bbox 368 2014 373 2021; x_wconf 29' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 510 2114 1423 2222; x_wconf 84' lang='lat' dir='ltr'><strong>PARTITIONE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1501 2113 2297 2223; x_wconf 85' lang='lat' dir='ltr'><strong>ORATORIA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 887 2358 1906 2488; baseline -0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 887 2361 1086 2487; x_wconf 79' lang='grc' dir='ltr'><strong>ΠΙ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1118 2358 1906 2488; x_wconf 87' lang='lat' dir='ltr'><strong>ALOGUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 3991 2966 4624">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 3991 2966 4624">
+     <span class='ocr_line' id='line_1_4' title="bbox 482 3991 2966 4624; baseline -0.004 -401"><span class='ocrx_word' id='word_1_9' title='bbox 482 4161 536 4232; x_wconf 79' lang='lat'><strong>1.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 572 4173 667 4224; x_wconf 76' lang='lat' dir='ltr'><strong>cte.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 680 4167 975 4242; x_wconf 65' lang='lat' dir='ltr'><strong>pas-aprima.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2127 4145 2224 4218; x_wconf 81' lang='lat'><strong>36</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2785 3991 2966 4624; x_wconf 38' lang='lat' dir='ltr'>j</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
